@@ -1,13 +1,13 @@
 # Site settings
-title: Hi, I'm Seongbae Park
-baseurl: "https://Sungbae95.github.io/"
-url: "https://Sungbae95.github.io/"
+title: Hi, I'm a Back-end Developer !
+baseurl: ""
+url: "https://sungbae95.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
   name: Seongbae Park
-  desc: I'm a Back-end Developer
+  desc: Hi, I'm a Back-end Developer !
   email: sbpark0402@gmail.com
   selfie: assets/img/profile.jpg
 
@@ -19,7 +19,7 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: sungbae95
   google_plus:
   instagram:
   keybase:
