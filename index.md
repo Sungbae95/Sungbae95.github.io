@@ -14,7 +14,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
   * Web Application Firewall
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
+* First Company (2022/01 ~ 2022/12)
   * VPN Development Company
   * Team Leader of VPN Development Div.
 
