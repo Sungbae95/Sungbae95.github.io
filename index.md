@@ -12,10 +12,8 @@ I wrote "about me", "career", and "interests" on this page as an example.
 # Career
 
 ### (주)메디아이젠트
-
 <span style="color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
 
-<span style="color:gray">  </span>
   ICT 학점연계 인턴십에 참여하여 3개월 동안 인턴 활동을 수행하였습니다.
   병원경영에 도움이 되는 제품을 제공합니다. 
   인턴십 기간 동안 회사 프로그램을 모바일으로 조작할 수 있는 프로그램 개발을 참여하였습니다.
@@ -28,9 +26,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 
 ### 삼성 청년 SW 아카데미
-
 <span style="color:gray"> 교육생 <br/> 2022.01 ~ 2022.12  </span>
-
 
   삼성 청년 SW 아카데미(SSAFY)는 삼성의 SW 교육 경험과 고용노동부의 취업지원 노하우를 바탕으로 
   취업 준비생에게 SW 역량 향상 교육 및 다양한 취업지원 서비스를 제공하여 취업에 성공하도록 돕는 프로그램입니다.
