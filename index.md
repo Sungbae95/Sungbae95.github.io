@@ -11,7 +11,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 # Career
 ### ICT 학점연계 인턴십
-<span style="color:gray"> 2020.07 ~ 2020.09 </span>
+<span style="color:red"> 2020.07 ~ 2020.09 </span>
   #### (주)메디아이젠트
   
   병원경영에 도움이 되는 제품을 제공합니다. 
