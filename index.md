@@ -36,4 +36,4 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
-# 기술 스택
+# Skills
