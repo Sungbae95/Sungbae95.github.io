@@ -10,13 +10,13 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Career
-* ICT 학점연계 인턴십 ( 2020.07 ~ 2020.09 )
-  * (주)메디아이젠트
+### ICT 학점연계 인턴십 ( 2020.07 ~ 2020.09 )
+  #### (주)메디아이젠트
     * 
     * Developde Application User Interface.
-* 삼성 청년 SW 아카데미 (2022/01 ~ 2022/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+  #### 삼성 청년 SW 아카데미 (2022/01 ~ 2022/12)
+    * VPN Development Company
+    * Team Leader of VPN Development Div.
 
 <br/>
 
