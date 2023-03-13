@@ -35,3 +35,5 @@ I wrote "about me", "career", and "interests" on this page as an example.
   남은 6개월 동안 실무 환경과 동일한 개발방식을 활용하여 실전형 자기주도 프로젝트를 수행해왔습니다.
 
 <br/>
+
+# 기술 스택
