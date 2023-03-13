@@ -18,7 +18,8 @@ I wrote "about me", "career", and "interests" on this page as an example.
   병원경영에 도움이 되는 제품을 제공합니다. 
   인턴십 기간 동안 회사 프로그램을 모바일으로 조작할 수 있는 프로그램 개발을 참여하였습니다.
   웹 사이트를 통해 병원과의 계약을 진행하고 계약서를 저장할 수 있는 웹 사이트 개발에 참여하였습니다.
-------
+#
+
 ### 삼성 청년 SW 아카데미
 ##### <span style="color:gray"> 교육생 </span>
 ##### <span style="color:gray"> 2022.01 ~ 2022.12 </span>
