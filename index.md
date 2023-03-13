@@ -11,7 +11,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 # Career
 
-<span style="font-size:200%"> <b>(주)메디아이젠트</b> </span> <br/>
+<span style="font-size:150%"> <b>(주)메디아이젠트</b> </span> <br/>
 <span style="color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
 
   ICT 학점연계 인턴십에 참여하여 3개월 동안 인턴 활동을 수행하였습니다.
@@ -25,7 +25,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 
 
-<span style="font-size:200%"> <b>삼성 청년 SW 아카데미</b> </span> <br/>
+<span style="font-size:150%"> <b>삼성 청년 SW 아카데미</b> </span> <br/>
 <span style="color:gray"> 교육생 <br/> 2022.01 ~ 2022.12  </span>
 
   삼성 청년 SW 아카데미(SSAFY)는 삼성의 SW 교육 경험과 고용노동부의 취업지원 노하우를 바탕으로 
