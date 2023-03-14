@@ -33,6 +33,7 @@ MySQL, MariaDB, MongoDB, Mybatis, JPA
 </p>
 <br/>
 <span style="font-size:125%"> <b>DevOps</b> </span> <br/>
+<p style="line-height:23px">
 Linux, AWS EC2, Jenkins, Docker
 </p>
 <br/>
