@@ -23,26 +23,26 @@ layout: about
 <p style="line-height:23px">
 Java, Python
 </p>
-</br>
+<br/>
 <span style="font-size:125%"> <b>Backend</b> </span> <br/>
 <p style="line-height:23px">
 Spring Boot, Spring Cloud, Node.js(Express), Django
 </p>
-</br>
+<br/>
 <span style="font-size:125%"> <b>Database</b> </span> <br/>
 <p style="line-height:23px">
 MySQL, MariaDB, MongoDB, Mybatis, JPA
 </p>
-</br>
+<br/>
 <span style="font-size:125%"> <b>DevOps</b> </span> <br/>
 Linux, AWS EC2, Jenkins, Docker
 </p>
-</br>
+<br/>
 <span style="font-size:125%"> <b>Tools</b> </span> <br/>
 <p style="line-height:23px">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
-</br>
+<br/>
 
 
 # Career
