@@ -80,7 +80,7 @@ Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 ------
 
 <span style="font-size:125%"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 우수상 | 2등<br/> 2022.08  </span>
+<span style="font-size:80%; color:gray"> 우수상 | 2등<br/> 2022.12  </span>
 
 
 # Project
