@@ -9,8 +9,6 @@ layout: about
 다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.<br/>
 </p>
 
-<br/>
-
 
 # Education
 <span style="font-size:125%"> <b>대전대학교</b> </span> <br/>
