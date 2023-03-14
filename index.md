@@ -5,11 +5,17 @@ layout: about
 # About Me
 <p style="line-height:23px">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.</br>
-동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.
-
+동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.</br>
+다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.</br>
 </p>
 
 <br/>
+
+# Skills
+
+<p style="line-height:23px">
+Java, Spring Boot, Spring Cloud, Node.js, Python, Django, MySQL, MariaDB, MongoDB, Mybatis, JPA 
+</p>
 
 # Career
 
@@ -18,7 +24,7 @@ layout: about
 <p style="line-height:23px">
   ICT 학점연계 인턴십에 참여하여 2개월 동안 인턴 활동을 수행하였습니다.
   병원경영에 도움이 되는 제품을 제공합니다. 
-  직접적으로 개발에 참여하진 못했지만, 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
+  직접적으로 회사 개발에 참여하진 못했지만, 개인 과제를 부여받아 개발을 진행해왔고 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
 </p>
 
 
@@ -35,10 +41,16 @@ layout: about
   6개월동안 기초 코딩 역량을 갖춘 신입 SW 개발자가 되기 위해 SW 필수 지식과 알고리즘 중심의 몰입형 코딩 교육을 해왔고 
   남은 6개월 동안 실무 환경과 동일한 개발방식을 활용하여 실전형 자기주도 프로젝트를 수행해왔습니다.
 </p>
-<br/>
 
-# Skills
 
-<p style="line-height:23px">
-Java, Spring, Spring Cloud, Node.js, Python, Django, MySQL, MongoDB 
-</p>
+# Awards
+
+
+
+<span style="font-size:125%"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
+<span style="font-size:80%; color:gray"> 우수상 | 1등 <br/> 2022.08  </span>
+
+------
+
+<span style="font-size:125%"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
+<span style="font-size:80%; color:gray"> 우수상 | 2등<br/> 2022.08  </span>
