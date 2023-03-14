@@ -3,9 +3,11 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+<p style="line-height:23px">
+사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.
+동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.
+
+</p>
 
 <br/>
 
@@ -14,14 +16,13 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <span style="font-size:125%"> <b>(주) 메디아이젠트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
 <p style="line-height:23px">
-  ICT 학점연계 인턴십에 참여하여 3개월 동안 인턴 활동을 수행하였습니다.
+  ICT 학점연계 인턴십에 참여하여 2개월 동안 인턴 활동을 수행하였습니다.
   병원경영에 도움이 되는 제품을 제공합니다. 
-  인턴십 기간 동안 회사 프로그램을 모바일으로 조작할 수 있는 프로그램 개발을 참여하였습니다.
-  웹 사이트를 통해 병원과의 계약을 진행하고 계약서를 저장할 수 있는 웹 사이트 개발에 참여하였습니다.
+  직접적으로 개발에 참여하진 못했지만, 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
 </p>
 
 
-------
+# Professional Training
 
 
 
@@ -37,3 +38,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Skills
+
+<p style="line-height:23px">
+Java, Spring, Spring Cloud, Node.js, Python, Django, MySQL, MongoDB 
+</p>
