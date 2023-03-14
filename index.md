@@ -4,18 +4,46 @@ layout: about
 
 # About Me
 <p style="line-height:23px">
-사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.</br>
-동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.</br>
-다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.</br>
+사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
+동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
+다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.<br/>
 </p>
 
 <br/>
 
+
+# Education
+<span style="font-size:125%"> <b>대전대학교</b> </span> <br/>
+<span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 <br/>3.24 / 4.5 </span>
+
+
 # Skills
 
+<span style="font-size:125%"> <b>Language</b> </span> <br/>
 <p style="line-height:23px">
-Java, Spring Boot, Spring Cloud, Node.js, Python, Django, MySQL, MariaDB, MongoDB, Mybatis, JPA 
+Java, Python
 </p>
+</br>
+<span style="font-size:125%"> <b>Backend</b> </span> <br/>
+<p style="line-height:23px">
+Spring Boot, Spring Cloud, Node.js(Express), Django
+</p>
+</br>
+<span style="font-size:125%"> <b>Database</b> </span> <br/>
+<p style="line-height:23px">
+MySQL, MariaDB, MongoDB, Mybatis, JPA
+</p>
+</br>
+<span style="font-size:125%"> <b>DevOps</b> </span> <br/>
+Linux, AWS EC2, Jenkins, Docker
+</p>
+</br>
+<span style="font-size:125%"> <b>Tools</b> </span> <br/>
+<p style="line-height:23px">
+Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
+</p>
+</br>
+
 
 # Career
 
@@ -54,3 +82,6 @@ Java, Spring Boot, Spring Cloud, Node.js, Python, Django, MySQL, MariaDB, MongoD
 
 <span style="font-size:125%"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 2등<br/> 2022.08  </span>
+
+
+# Project
