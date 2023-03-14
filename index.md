@@ -41,7 +41,6 @@ Linux, AWS EC2, Jenkins, Docker
 <p style="line-height:23px">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
-<br/>
 
 
 # Career
