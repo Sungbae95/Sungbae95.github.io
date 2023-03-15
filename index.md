@@ -20,7 +20,7 @@ layout: about
 
 
 # <U>Career</U>
-<span style="font-size:125%"> <b>(주) 메디아이젠트</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>(주) 메디아이젠트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;ICT 학점연계 인턴십에 참여하여 2개월 동안 인턴 활동을 수행하였습니다.
@@ -30,7 +30,7 @@ layout: about
 
 
 # <U>Professional Training</U>
-<span style="font-size:125%"> <b>삼성 청년 SW 아카데미</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 교육생 <br/> 2022.01 ~ 2022.12  </span>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;삼성 청년 SW 아카데미(SSAFY)는 삼성의 SW 교육 경험과 고용노동부의 취업지원 노하우를 바탕으로 
@@ -42,25 +42,25 @@ layout: about
 
 
 # <U>Awards</U>
-<span style="font-size:125%"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 1위 <br/> 2022.08  </span> <br/>
 
 
-<span style="font-size:125%"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 2위 <br/> 2022.12  </span>
 
 
 # <U>Project</U>
 ![image](https://user-images.githubusercontent.com/98007970/225359778-d97d6389-3770-4f82-8236-6f8a5ee5a25d.png){: width="25%" height="25%"}<br/>
-<span style="font-size:135%"> <b> SALUS</b> </span> <br/>
+<span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b> SALUS</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  <br/> 
 <a href="https://github.com/Sungbae95/SALUS" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/SALUS</a>
 </span> <br/> <br/>
-<span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   Salus는 매일 발전하는 나를 확인할 수 있고 완료한 운동을 자동으로 기록해주는 IOT 서비스입니다.
 </p>
-<span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
   &nbsp;- ERD 설계 <br/>
@@ -72,18 +72,18 @@ layout: about
   &nbsp;- 운동 상세 기록 API 구현<br/>
   &nbsp;- 모바일 목표 시간, 륨(무게) 설정 API 구현<br/>
 </p>
-<span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
 <br/><br/>
 
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
-<span style="font-size:135%"> <b>ZZAZO</b> </span> <br/>
+<span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b>ZZAZO</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> 
 <a href="https://github.com/Sungbae95/ZZAZO" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/ZZAZO</a>
 </span> <br/> <br/>
-<span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   빅데이터 기반 주변 장소 추천 서비스입니다.
 </p>
@@ -99,22 +99,22 @@ layout: about
   &nbsp;- Review, 별점 수정 API 구현 <br/>
   &nbsp;- 약속 카드 생성, 수정, 삭제 API 구현 <br/>
 </p>
-<span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
 </p>
 <br/><br/>
 
 ![image](https://user-images.githubusercontent.com/98007970/225358755-3302bcb5-afb6-41bd-840f-a5405a347925.png){: width="25%" height="25%"} <br/>
-<span style="font-size:135%"> <b>SELLY</b> </span> <br/>
+<span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b>SELLY</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10 ~ 2022.12 <br/>
 <a href="https://github.com/Team-NCT/Selly" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Team-NCT/Selly</a>
 </span> <br/> <br/>
-<span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   LG U+ 기업 연계 프로젝트입니다.<br/>최근 유행하고 있는 아트테크(Art-Tech) 플랫폼의 NFT 버전입니다.<br/>판매자가 직접 NFT를 올리고 NFT를 여러 사람이 나누어서 공동으로 소유하고 소유 지분을 재판매 할 수 있는 플랫폼입니다.
 </p>
-<span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Spring Boot, Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
   &nbsp;- Spring Cloud Eureka, Spring Cloud Gateway, Spring Client Server 기술들을 활용하여<br/>
@@ -138,25 +138,25 @@ layout: about
 </p>
 
 # <U>Skills</U>
-<span style="font-size:125%"> <b>Backend</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Backend</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
 Java, Python, Spring Boot, Spring Cloud, Node.js(Express), Django, Linux, AWS EC2, Jenkins, Docker
 </p>
 <br/>
-<span style="font-size:125%"> <b>Database</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Database</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
 MySQL, MariaDB, MongoDB, Mybatis, JPA
 </p>
 <br/>
-<span style="font-size:125%"> <b>Tools</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Tools</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
 
 
 # <U>Contact</U>
-<span style="font-size:125%"> <b>Email</b> </span> 
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Email</b> </span> 
 <a href="mailto:sbpark04029@gmail.com" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">sbpark0402@gmail.com</a> <br/>
-<span style="font-size:125%"> <b>Github</b> </span> 
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Github</b> </span> 
 <a href="https://github.com/Sungbae95" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95</a>
 
