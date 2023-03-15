@@ -77,6 +77,7 @@ layout: about
   &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
 <br/><br/>
+
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
 <span style="font-size:135%"> <b>ZZAZO</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> 
@@ -103,6 +104,7 @@ layout: about
   - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
 </p>
 <br/><br/>
+
 ![image](https://user-images.githubusercontent.com/98007970/225358755-3302bcb5-afb6-41bd-840f-a5405a347925.png){: width="25%" height="25%"} <br/>
 <span style="font-size:135%"> <b>SELLY</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10 ~ 2022.12 <br/>
