@@ -19,7 +19,7 @@ layout: about
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 대전대학교 </span> <br/>
 <span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
-
+<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Career </span>
 <hr />
@@ -53,7 +53,7 @@ layout: about
 
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 2위 <br/> 2022.12  </span>
-<br/>
+<br/><br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Projects </span>
 <hr />
@@ -107,7 +107,7 @@ layout: about
 </p>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span> 
 <p style="line-height:23px; font-family: nanumsquare;">
-  - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
+  &nbsp;- Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
 </p>
 <br/><br/>
 
@@ -140,7 +140,7 @@ layout: about
 </p>
 <span style="font-size:100%;  font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span>
 <p style="line-height:23px; font-family: nanumsquare;">
-  - Spring Boot, Spring Cloud, Spring Data JPA, Node.js, Web3j, Docker, Jenkins, Nginx, MariaDB <br/>
+  &nbsp;- Spring Boot, Spring Cloud, Spring Data JPA, Node.js, Web3j, Docker, Jenkins, Nginx, MariaDB <br/>
 </p>
 <br/>
 
