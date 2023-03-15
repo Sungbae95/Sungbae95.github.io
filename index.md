@@ -17,7 +17,7 @@ layout: about
 
 # Education
 <span style="font-size:125%"> <b>대전대학교</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 <br/>3.24 / 4.5 </span>
+<span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
 
 
 # Career
