@@ -11,8 +11,9 @@ layout: about
 <p style="line-height:23px; font-family: nanumsquare;">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
-다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.<br/><br/>
+다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.
 </p>
+<br/><br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
 <hr />
@@ -29,7 +30,7 @@ layout: about
   병원경영에 도움이 되는 제품을 제공합니다. 
   개인 과제를 통해 개발을 진행해왔고 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
 </p>
-
+<br/><br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Professional Training </span>
 <hr />
@@ -42,6 +43,7 @@ layout: about
   6개월동안 기초 코딩 역량을 갖춘 신입 SW 개발자가 되기 위해 SW 필수 지식과 알고리즘 중심의 몰입형 코딩 교육을 이수
   남은 6개월 동안 실무 환경과 동일한 개발방식을 활용하여 실전형 자기주도 프로젝트를 수행해왔습니다.
 </p>
+<br/><br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Awards </span>
 <hr />
@@ -136,8 +138,9 @@ layout: about
 </p>
 <span style="font-size:100%;  font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span>
 <p style="line-height:23px; font-family: nanumsquare;">
-  &nbsp;- Spring Boot, Spring Cloud, Spring Data JPA, Node.js, Web3j, Docker, Jenkins, Nginx, MariaDB <br/>
+  &nbsp;- Spring Boot, Spring Cloud, Spring Data JPA, Node.js, Web3j, Docker, Jenkins, Nginx, MariaDB
 </p>
+<br/><br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Skills </span>
 <hr />
@@ -155,6 +158,7 @@ MySQL, MariaDB, MongoDB, Mybatis, JPA
 <p style="line-height:23px; font-family: nanumsquare;">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
+<br/><br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Contact </span>
 <hr />
