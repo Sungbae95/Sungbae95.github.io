@@ -44,16 +44,15 @@ layout: about
 
 # Awards
 <span style="font-size:125%"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 우수상 | 1등 <br/> 2022.08  </span>
+<span style="font-size:80%; color:gray"> 우수상 | 1등 <br/> 2022.08  </span> <br/>
 
-------
 
 <span style="font-size:125%"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 2등<br/> 2022.12  </span>
 
 
 # Project
-<span style="font-size:125%"> <b>Salus</b> </span> <br/>
+- <span style="font-size:135%"> <b>SALUS</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  </span> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
@@ -76,10 +75,8 @@ layout: about
   - Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
 
-------
-
-<span style="font-size:125%"> <b>Salus</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  </span> <br/>
+- <span style="font-size:135%"> <b>ZZAZO</b> </span> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10  </span> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   빅데이터기반 주변 장소 추천 서비스
