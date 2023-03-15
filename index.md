@@ -6,7 +6,7 @@ layout: about
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 </style>
 
-# <U>About Me</U>
+<span style="font-size:150%; font-family: nanumsquare;  font-weight: 800;"> About Me </span> <br/> <hr />
 <p style="line-height:23px; font-family: nanumsquare;">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
@@ -25,7 +25,7 @@ layout: about
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;ICT 학점연계 인턴십에 참여하여 2개월 동안 인턴 활동을 수행하였습니다.
   병원경영에 도움이 되는 제품을 제공합니다. 
-  개인 과제를 부여받아 개발을 진행해왔고 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
+  개인 과제를 통해 개발을 진행해왔고 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
 </p>
 
 
