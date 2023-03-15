@@ -15,7 +15,7 @@ layout: about
 
 
 # <U>Education</U>
-<span style="font-size:125%"> <b>대전대학교</b> </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>대전대학교</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
 
 
@@ -70,7 +70,7 @@ layout: about
   &nbsp;- Socket 통신으로 실시간으로 운동 Data 기록 API 구현 <br/>
   &nbsp;- 키오스크, 모바일 메인 화면, Calendar API 구현<br/>
   &nbsp;- 운동 상세 기록 API 구현<br/>
-  &nbsp;- 모바일 목표 시간, 불륨(무게) 설정 API 구현<br/>
+  &nbsp;- 모바일 목표 시간, 륨(무게) 설정 API 구현<br/>
 </p>
 <span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
@@ -124,7 +124,7 @@ layout: about
   &nbsp;- Spring Cloud Gateway로 Load Balancing 환경 구축 <br/>
   &nbsp;- Node.js 서버에서 Web3j 기술을 활용하여 Ethereum과 통신 <br/>
   &nbsp;- 외부 API를 호출하기 위해 Spring Cloud OpenFeign 기술 활용<br/>
-  &nbsp;- 각 서비스마다 Database를 가지는 구조로 설계 하여 관계형을 사용하지 않기 때문에 데이터 동기화 작업 수행 <br/>
+  &nbsp;- 각 서비스마다 Database를 가지는 구조로 설계하여 관계형을 사용하지 않기 때문에 데이터 동기화 작업 수행 <br/>
   &nbsp;- 작가/작품 랭킹 API 구현 <br/>
   &nbsp;- Database에 작품 등록 기능, Metamask에 NFT 작품 민팅(등록) API 구현 <br/>
   &nbsp;- NFT 작품 조각 분할, 판매 등록, 거래 현황 및 분할 조각 관리 API 구현<br/>
