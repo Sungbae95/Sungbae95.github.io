@@ -123,7 +123,7 @@ layout: about
   &nbsp;- 유저 팔로우, 팔로잉 API 구현 <br/>
   &nbsp;- Profile API 구현 <br/>
   &nbsp;- User API 구현 <br/>
-  &nbsp;- 로그인은 Metamask 회원 정보와 Spring Security 기술을 활용하여 구 <br/>
+  &nbsp;- 로그인은 Metamask 회원 정보와 Spring Security 기술을 활용하여 구현 <br/>
 </p>
 <span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
