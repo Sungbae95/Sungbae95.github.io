@@ -70,7 +70,7 @@ layout: about
   - 운동 상세 기록 API 구현<br/>
   - 모바일 목표 시간, 불륨(무게) 설정 API 구현<br/>
 </p>
-<span style="font-size:100%"> <b>Skills</b> </span> <br/>
+<span style="font-size:100%"> <b>활용 기술술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   - Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
@@ -93,7 +93,7 @@ layout: about
   - Review, 별점 수정 API 구현 <br/>
   - 약속 카드 생성, 수정, 삭제 API 구현 <br/>
 </p>
-<span style="font-size:100%"> <b>Skills</b> </span> <br/>
+<span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
 </p>
