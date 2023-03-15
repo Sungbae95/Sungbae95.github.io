@@ -13,7 +13,7 @@ layout: about
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
 다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.
 </p>
-<br/><br/>
+<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
 <hr />
@@ -30,7 +30,7 @@ layout: about
   병원경영에 도움이 되는 제품을 제공합니다. 
   개인 과제를 통해 개발을 진행해왔고 소프트웨어 개발 회사의 개발 프로세스와 협업 방식에 대해 경험해 볼 수 있었습니다.
 </p>
-<br/><br/>
+<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Professional Training </span>
 <hr />
@@ -43,7 +43,7 @@ layout: about
   6개월동안 기초 코딩 역량을 갖춘 신입 SW 개발자가 되기 위해 SW 필수 지식과 알고리즘 중심의 몰입형 코딩 교육을 이수
   남은 6개월 동안 실무 환경과 동일한 개발방식을 활용하여 실전형 자기주도 프로젝트를 수행해왔습니다.
 </p>
-<br/><br/>
+<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Awards </span>
 <hr />
@@ -80,8 +80,9 @@ layout: about
 </p>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span>
 <p style="line-height:23px; font-family: nanumsquare;">
-  &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
+  &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB
 </p>
+<br/><br/>
 
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b>ZZAZO</b> </span> <br/>
@@ -106,8 +107,9 @@ layout: about
 </p>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span> 
 <p style="line-height:23px; font-family: nanumsquare;">
-  &nbsp;- Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
+  &nbsp;- Django, MariaDB, MongoDB, Selenuim, Djongo, Python
 </p>
+<br/><br/>
 
 ![image](https://user-images.githubusercontent.com/98007970/225358755-3302bcb5-afb6-41bd-840f-a5405a347925.png){: width="25%" height="25%"} <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> SELLY </span> <br/>
@@ -158,7 +160,7 @@ MySQL, MariaDB, MongoDB, Mybatis, JPA
 <p style="line-height:23px; font-family: nanumsquare;">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
-<br/><br/>
+<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Contact </span>
 <hr />
