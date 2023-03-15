@@ -106,7 +106,7 @@ layout: about
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Spring Boot, Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
   &nbsp;- Spring Cloud Eureka, Spring Cloud Gateway, Spring Client Server 기술들을 활용하여 MSA(Micro Service Architecture) 구조 설계<br/>
-  &nbsp;- Docker, Jenkins, Nginx 기술들을 활용하여 CI/CD 구축 <br/>
+  &nbsp;- Docker, Jenkins, Nginx 기술들을 활용하여 CI/CD 환경 구축 <br/>
   &nbsp;- 아키텍처 및 ERD 설계<br/>
   &nbsp;- Spring Cloud Gateway로 Load Balancing 환경 구축 <br/>
   &nbsp;- Node.js 서버에서 Web3j 기술을 활용하여 Ethereum과 통신 <br/>
