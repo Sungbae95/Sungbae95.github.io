@@ -52,20 +52,20 @@ layout: about
 
 # <U>Project</U>
 <span style="font-size:135%"> <b> SALUS</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  </span> <br/> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  <br/> https://github.com/Sungbae95/SALUS</span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-  Salus는 매일 발전하는 나를 확인할 수 있고 완료한 을 자동으로 기록해주는 IOT 서비스입니다.
+  Salus는 매일 발전하는 나를 확인할 수 있고 완료한 운동을 자동으로 기록해주는 IOT 서비스입니다.
 </p>
 <span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
-  &nbsp;- ERD 설계 및 Mysql Table 제작 <br/>
+  &nbsp;- ERD 설계 <br/>
   &nbsp;- MVC 모델 적용 <br/>
   &nbsp;- Socket 통신 방식을 통한 Raspberry Pi 와 통신 <br/>
   &nbsp;- RFID를 활용한 로그인 <br/>
-  &nbsp;- Socket 통신으로 실시간으로 운동 Data 기록 <br/>
-  &nbsp;- 키오스크, 모바일 메인 화면, Calendar Data API 구현<br/>
+  &nbsp;- Socket 통신으로 실시간으로 운동 Data 기록 API 구현 <br/>
+  &nbsp;- 키오스크, 모바일 메인 화면, Calendar API 구현<br/>
   &nbsp;- 운동 상세 기록 API 구현<br/>
   &nbsp;- 모바일 목표 시간, 불륨(무게) 설정 API 구현<br/>
 </p>
@@ -75,7 +75,7 @@ layout: about
 </p>
 <br/>
 <span style="font-size:135%"> <b>ZZAZO</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10  </span> <br/> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> https://github.com/Sungbae95/ZZAZO </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   빅데이터기반 주변 장소 추천 서비스
@@ -91,6 +91,39 @@ layout: about
   &nbsp;- 장소를 자주 이용하는 연령, 성별 API 구현<br/>
   &nbsp;- Review, 별점 수정 API 구현 <br/>
   &nbsp;- 약속 카드 생성, 수정, 삭제 API 구현 <br/>
+</p>
+<span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
+<p style="line-height:23px; font-family: nanumsquare;">
+  - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
+</p>
+<br/>
+<span style="font-size:135%"> <b>SELLY</b> </span> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.08 ~ 2022.10 <br/> https://github.com/Team-NCT/Selly </span> <br/> <br/>
+<span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
+<p style="line-height:23px; font-family: nanumsquare;">
+  최근 유행하고 있는 아트테크(Art-Tech) 플랫폼의 NFT 버전입니다.,<br/>판매자가 직접 NFT를 올리고 NFT를 여러 사람이 나누어서 공동으로 소유하고 소유 지분을 재판매 할 수 있는 플랫폼입니다.
+</p>
+<span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
+<p style="line-height:23px; font-family: nanumsquare;">
+  &nbsp;- Spring Boot, Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
+  &nbsp;- Spring Cloud Eureka, Spring Cloud Gateway, Spring Client Server 기술들을 활용하여 MSA(Micro Service Architecture) 구조 설계<br/>
+  &nbsp;- Docker, Jenkins, Nginx 기술들을 활용하여 CI/CD 구축 <br/>
+  &nbsp;- 아키텍처 및 ERD 설계<br/>
+  &nbsp;- Spring Cloud Gateway로 Load Balancing 환경 구축 <br/>
+  &nbsp;- Node.js 서버에서 Web3j 기술을 활용하여 Ethereum과 통신 <br/>
+  &nbsp;- 외부 API를 호출하기 위해 Spring Cloud OpenFeign 기술 활용<br/>
+  &nbsp;- 각 서비스마다 Database를 가지는 구조로 설계 하여 관계형을 사용하지 않기 때문에 데이터 동기화 작업 수행 <br/>
+  &nbsp;- 작가/작품 랭킹 API 구현 <br/>
+  &nbsp;- 작가/작품 랭킹 API 구현 <br/>
+  &nbsp;- Database에 작품 등록 기능, Metamask에 NFT 작품 민팅(등록) API 구현 <br/>
+  &nbsp;- NFT 작품 조각 분할 및 판매 등록 API 구현<br/>
+  &nbsp;- NFT Detail Page API 구현 <br/>
+  &nbsp;- NFT 거래 현황 및 분할 조각 관리 API 구현 <br/>
+  &nbsp;- NFT Detail Page API 구현 <br/>
+  &nbsp;- 유저 팔로우, 팔로잉 API 구현 <br/>
+  &nbsp;- Profile API 구현 <br/>
+  &nbsp;- User API 구현 <br/>
+  &nbsp;- 로그인은 Metamask 회원 정보와 Spring Security 기술을 활용하여 구 <br/>
 </p>
 <span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
