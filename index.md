@@ -6,7 +6,7 @@ layout: about
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 </style>
 
-<span style="font-size:150%; font-family: nanumsquare;  font-weight: 800;"> About Me </span> <br/> <hr />
+<span style="font-size:200%; font-family: nanumsquare;  font-weight: 800;"> About Me </span> <br/> <hr>
 <p style="line-height:23px; font-family: nanumsquare;">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
