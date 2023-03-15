@@ -53,7 +53,9 @@ layout: about
 # <U>Project</U>
 ![image](https://user-images.githubusercontent.com/98007970/225359778-d97d6389-3770-4f82-8236-6f8a5ee5a25d.png){: width="25%" height="25%"}<br/>
 <span style="font-size:135%"> <b> SALUS</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  <br/> https://github.com/Sungbae95/SALUS</span> <br/> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  <br/> 
+<a href="https://github.com/Sungbae95/SALUS" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/SALUS</a>
+</span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   Salus는 매일 발전하는 나를 확인할 수 있고 완료한 운동을 자동으로 기록해주는 IOT 서비스입니다.
@@ -77,7 +79,9 @@ layout: about
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
 <span style="font-size:135%"> <b>ZZAZO</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> https://github.com/Sungbae95/ZZAZO </span> <br/> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> 
+<a href="https://github.com/Sungbae95/ZZAZO" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/ZZAZO</a>
+</span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   빅데이터기반 주변 장소 추천 서비스입니다.
@@ -101,7 +105,9 @@ layout: about
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/98007970/225358755-3302bcb5-afb6-41bd-840f-a5405a347925.png){: width="25%" height="25%"} <br/>
 <span style="font-size:135%"> <b>SELLY</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10 ~ 2022.12 <br/> https://github.com/Team-NCT/Selly </span> <br/> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10 ~ 2022.12 <br/>
+<a href="https://github.com/Team-NCT/Selly" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Team-NCT/Selly</a>
+</span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   LG U+ 기업 연계 프로젝트입니다.<br/>최근 유행하고 있는 아트테크(Art-Tech) 플랫폼의 NFT 버전입니다.<br/>판매자가 직접 NFT를 올리고 NFT를 여러 사람이 나누어서 공동으로 소유하고 소유 지분을 재판매 할 수 있는 플랫폼입니다.
@@ -144,3 +150,11 @@ MySQL, MariaDB, MongoDB, Mybatis, JPA
 <p style="line-height:23px; font-family: nanumsquare;">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
+
+
+# <U>Contact</U>
+<span style="font-size:125%"> <b>Email</b> </span> 
+<a href="mailto:sbpark04029@gmail.com" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">sbpark0402@gmail.com</a> <br/>
+<span style="font-size:125%"> <b>Github</b> </span> 
+<a href="https://github.com/Sungbae95" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95</a>
+
