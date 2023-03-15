@@ -6,7 +6,7 @@ layout: about
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 </style>
 
-<span style="font-size:200%; font-family: nanumsquare;  font-weight: 800;"> About Me </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> About Me </span>
 <hr />
 <p style="line-height:23px; font-family: nanumsquare;">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
@@ -57,11 +57,11 @@ layout: about
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  <br/> 
 <a href="https://github.com/Sungbae95/SALUS" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/SALUS</a>
 </span> <br/> <br/>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>프로젝트 소개</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> 프로젝트 소개 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   Salus는 매일 발전하는 나를 확인할 수 있고 완료한 운동을 자동으로 기록해주는 IOT 서비스입니다.
 </p>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>주요 개발 내용</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> 주요 개발 내용 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
   &nbsp;- ERD 설계 <br/>
@@ -73,7 +73,7 @@ layout: about
   &nbsp;- 운동 상세 기록 API 구현<br/>
   &nbsp;- 모바일 목표 시간, 륨(무게) 설정 API 구현<br/>
 </p>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>활용 기술</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> 활용 기술 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
@@ -84,11 +84,11 @@ layout: about
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> 
 <a href="https://github.com/Sungbae95/ZZAZO" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/ZZAZO</a>
 </span> <br/> <br/>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>프로젝트 소개</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> 프로젝트 소개 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   빅데이터 기반 주변 장소 추천 서비스입니다.
 </p>
-<span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
+<span style="font-size:100%; font-weight: 800;"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Django기반의 REST API 서버 백엔드 개발 <br/>
   &nbsp;- Cold Start 문제를 해결하기 위해 Python Selenuim 기술을 활용하여 <br/>
@@ -100,7 +100,7 @@ layout: about
   &nbsp;- Review, 별점 수정 API 구현 <br/>
   &nbsp;- 약속 카드 생성, 수정, 삭제 API 구현 <br/>
 </p>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>활용 기술</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
 </p>
@@ -111,11 +111,11 @@ layout: about
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10 ~ 2022.12 <br/>
 <a href="https://github.com/Team-NCT/Selly" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Team-NCT/Selly</a>
 </span> <br/> <br/>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>프로젝트 소개</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> 프로젝트 소개 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   LG U+ 기업 연계 프로젝트입니다.<br/>최근 유행하고 있는 아트테크(Art-Tech) 플랫폼의 NFT 버전입니다.<br/>판매자가 직접 NFT를 올리고 NFT를 여러 사람이 나누어서 공동으로 소유하고 소유 지분을 재판매 할 수 있는 플랫폼입니다.
 </p>
-<span style="font-size:100%; font-family: nanumsquare;  font-weight: 700;"> <b>주요 개발 내용</b> </span> <br/>
+<span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> 주요 개발 내용 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Spring Boot, Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
   &nbsp;- Spring Cloud Eureka, Spring Cloud Gateway, Spring Client Server 기술들을 활용하여<br/>
