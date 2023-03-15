@@ -13,7 +13,6 @@ layout: about
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
 다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.
 </p>
-<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
 <hr />
