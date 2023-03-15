@@ -6,7 +6,7 @@ layout: about
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 </style>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> About Me </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;About Me </span>
 <hr />
 <p style="line-height:23px; font-family: nanumsquare;">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
@@ -15,13 +15,13 @@ layout: about
 </p>
 
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Education </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 대전대학교 </span> <br/>
 <span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
 <br/><br/>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Career </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Career </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>(주) 메디아이젠트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
@@ -32,7 +32,7 @@ layout: about
 </p>
 
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Professional Training </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Professional Training </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 교육생 <br/> 2022.01 ~ 2022.12  </span>
@@ -44,7 +44,7 @@ layout: about
   남은 6개월 동안 실무 환경과 동일한 개발방식을 활용하여 실전형 자기주도 프로젝트를 수행해왔습니다.
 </p>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Awards </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Awards </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 1위 <br/> 2022.08  </span> <br/>
@@ -54,7 +54,7 @@ layout: about
 <span style="font-size:80%; color:gray"> 우수상 | 2위 <br/> 2022.12  </span>
 <br/><br/>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Projects </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Projects </span>
 <hr />
 ![image](https://user-images.githubusercontent.com/98007970/225359778-d97d6389-3770-4f82-8236-6f8a5ee5a25d.png){: width="25%" height="25%"}<br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b> SALUS</b> </span> <br/>
@@ -140,7 +140,7 @@ layout: about
   &nbsp;- Spring Boot, Spring Cloud, Spring Data JPA, Node.js, Web3j, Docker, Jenkins, Nginx, MariaDB <br/>
 </p>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Skills </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Skills </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Backend</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
@@ -157,7 +157,7 @@ MySQL, MariaDB, MongoDB, Mybatis, JPA
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> Contact </span>
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Contact </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Email</b> </span> 
 <a href="mailto:sbpark04029@gmail.com" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">sbpark0402@gmail.com</a> <br/>
