@@ -82,7 +82,7 @@ layout: about
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
-<br/><br/>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b>ZZAZO</b> </span> <br/>
@@ -109,7 +109,7 @@ layout: about
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
 </p>
-<br/><br/>
+<br/>
 
 ![image](https://user-images.githubusercontent.com/98007970/225358755-3302bcb5-afb6-41bd-840f-a5405a347925.png){: width="25%" height="25%"} <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> SELLY </span> <br/>
