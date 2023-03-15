@@ -78,12 +78,13 @@ layout: about
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> https://github.com/Sungbae95/ZZAZO </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-  빅데이터기반 주변 장소 추천 서비스 입니다.
+  빅데이터기반 주변 장소 추천 서비스입니다.
 </p>
 <span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Django기반의 REST API 서버 백엔드 개발 <br/>
-  &nbsp;- Cold Start 문제를 해결하기 위해 Python Selenuim 기술을 활용하여 Kakaomap Data Crawling, Google Image Crawling <br/>
+  &nbsp;- Cold Start 문제를 해결하기 위해 Python Selenuim 기술을 활용하여 <br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;Kakaomap Data Crawling, Google Image Crawling <br/>
   &nbsp;- Pandas 기술을 활용하여 Crawling한 데이터 전처리 자동화 <br/>
   &nbsp;- Crawling Data는 NoSQL MongoDB 활용, User Data는 RDBMS MariaDB 활용 및 ERD 설계<br/>
   &nbsp;- Django에서 MongoDB를 활용하기 위해 djongo 활용 <br/>
@@ -105,7 +106,8 @@ layout: about
 <span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;- Spring Boot, Node.js Express기반의 REST API 서버 백엔드 개발 <br/>
-  &nbsp;- Spring Cloud Eureka, Spring Cloud Gateway, Spring Client Server 기술들을 활용하여 MSA(Micro Service Architecture) 구조 설계<br/>
+  &nbsp;- Spring Cloud Eureka, Spring Cloud Gateway, Spring Client Server 기술들을 활용하여<br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;MSA(Micro Service Architecture) 구조 설계<br/>
   &nbsp;- Docker, Jenkins, Nginx 기술들을 활용하여 CI/CD 환경 구축 <br/>
   &nbsp;- 아키텍처 및 ERD 설계<br/>
   &nbsp;- Spring Cloud Gateway로 Load Balancing 환경 구축 <br/>
