@@ -126,16 +126,16 @@ layout: about
 
 # <U>Skills</U>
 <span style="font-size:125%"> <b>Backend</b> </span> <br/>
-<p style="line-height:23px">
+<p style="line-height:23px; font-family: nanumsquare;">
 Java, Python, Spring Boot, Spring Cloud, Node.js(Express), Django, Linux, AWS EC2, Jenkins, Docker
 </p>
 <br/>
 <span style="font-size:125%"> <b>Database</b> </span> <br/>
-<p style="line-height:23px">
+<p style="line-height:23px; font-family: nanumsquare;">
 MySQL, MariaDB, MongoDB, Mybatis, JPA
 </p>
 <br/>
 <span style="font-size:125%"> <b>Tools</b> </span> <br/>
-<p style="line-height:23px">
+<p style="line-height:23px; font-family: nanumsquare;">
 Git, Github, Postman, VSCode, Intellij, Jira, Eclipse
 </p>
