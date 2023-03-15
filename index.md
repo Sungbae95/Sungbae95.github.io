@@ -85,7 +85,7 @@ layout: about
 </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-  빅데이터기반 주변 장소 추천 서비스입니다.
+  빅데이터 기반 주변 장소 추천 서비스입니다.
 </p>
 <span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
