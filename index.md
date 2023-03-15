@@ -7,7 +7,8 @@ layout: about
 </style>
 
 
-# About Me
+<span style="font-size:200%; font-family: nanumsquare;"> <b>About Me</b> </span> 
+------
 <p style="line-height:23px; font-family: nanumsquare;">
 사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
@@ -16,13 +17,11 @@ layout: about
 
 
 # Education
-------
 <span style="font-size:125%"> <b>대전대학교</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
 
 
 # Career
-------
 <span style="font-size:125%"> <b>(주) 메디아이젠트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
 <p style="line-height:23px">
@@ -33,7 +32,6 @@ layout: about
 
 
 # Professional Training
-------
 <span style="font-size:125%"> <b>삼성 청년 SW 아카데미</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 교육생 <br/> 2022.01 ~ 2022.12  </span>
 <p style="line-height:23px">
@@ -46,7 +44,6 @@ layout: about
 
 
 # Awards
-------
 <span style="font-size:125%"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 우수상 | 1위 <br/> 2022.08  </span> <br/>
 
@@ -56,7 +53,6 @@ layout: about
 
 
 # Project
-------
 <span style="font-size:135%"> <b> SALUS</b> </span> <br/>
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
@@ -104,7 +100,6 @@ layout: about
 </p>
 
 # Skills
-------
 <span style="font-size:125%"> <b>Backend</b> </span> <br/>
 <p style="line-height:23px">
 Java, Python, Spring Boot, Spring Cloud, Node.js(Express), Django, Linux, AWS EC2, Jenkins, Docker
