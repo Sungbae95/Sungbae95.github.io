@@ -121,7 +121,7 @@ layout: about
 </p>
 <span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-  - Django, MariaDB, MongoDB, Selenuim, Djongo, Python <br/>
+  - Spring Boot, Spring Cloud, Spring Data JPA, Node.js, Web3j, Docker, Jenkins, Nginx, MariaDB <br/>
 </p>
 
 # <U>Skills</U>
