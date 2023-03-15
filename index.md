@@ -87,8 +87,7 @@ layout: about
   &nbsp;- Pandas 기술을 활용하여 Crawling한 데이터 전처리 자동화 <br/>
   &nbsp;- Crawling Data는 NoSQL MongoDB 활용, User Data는 RDBMS MariaDB 활용 및 ERD 설계<br/>
   &nbsp;- Django에서 MongoDB를 활용하기 위해 djongo 활용 <br/>
-  &nbsp;- 장소 정보 API 구현  <br/>
-  &nbsp;- 장소를 자주 이용하는 연령, 성별 API 구현<br/>
+  &nbsp;- 장소 정보 및 장소를 자주 이용하는 연령, 성별 API 구현 <br/>
   &nbsp;- Review, 별점 수정 API 구현 <br/>
   &nbsp;- 약속 카드 생성, 수정, 삭제 API 구현 <br/>
 </p>
@@ -114,15 +113,10 @@ layout: about
   &nbsp;- 외부 API를 호출하기 위해 Spring Cloud OpenFeign 기술 활용<br/>
   &nbsp;- 각 서비스마다 Database를 가지는 구조로 설계 하여 관계형을 사용하지 않기 때문에 데이터 동기화 작업 수행 <br/>
   &nbsp;- 작가/작품 랭킹 API 구현 <br/>
-  &nbsp;- 작가/작품 랭킹 API 구현 <br/>
   &nbsp;- Database에 작품 등록 기능, Metamask에 NFT 작품 민팅(등록) API 구현 <br/>
-  &nbsp;- NFT 작품 조각 분할 및 판매 등록 API 구현<br/>
+  &nbsp;- NFT 작품 조각 분할, 판매 등록, 거래 현황 및 분할 조각 관리 API 구현<br/>
   &nbsp;- NFT Detail Page API 구현 <br/>
-  &nbsp;- NFT 거래 현황 및 분할 조각 관리 API 구현 <br/>
-  &nbsp;- NFT Detail Page API 구현 <br/>
-  &nbsp;- 유저 팔로우, 팔로잉 API 구현 <br/>
-  &nbsp;- Profile API 구현 <br/>
-  &nbsp;- User API 구현 <br/>
+  &nbsp;- Profile, User, User Follow, Following API 구현 <br/>
   &nbsp;- 로그인은 Metamask 회원 정보와 Spring Security 기술을 활용하여 구현 <br/>
 </p>
 <span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
