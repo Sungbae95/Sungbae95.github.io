@@ -53,7 +53,7 @@ layout: about
 
 # Project
 <span style="font-size:135%"> <b> SALUS</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  </span> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   Salus는 매일 발전하는 나를 확인할 수 있고 완료한 을 자동으로 기록해주는 IOT 서비스입니다.
@@ -70,13 +70,13 @@ layout: about
   - 운동 상세 기록 API 구현<br/>
   - 모바일 목표 시간, 불륨(무게) 설정 API 구현<br/>
 </p>
-<span style="font-size:100%"> <b>활용 기술술</b> </span> <br/>
+<span style="font-size:100%"> <b>활용 기술</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   - Node.js, Express, Mybatis, Socket.io, MariaDB <br/>
 </p>
 <br/>
 <span style="font-size:135%"> <b>ZZAZO</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10  </span> <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10  </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
   빅데이터기반 주변 장소 추천 서비스
