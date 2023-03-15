@@ -6,6 +6,7 @@ layout: about
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
 </style>
 
+<br/>
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;About Me </span>
 <hr />
 <p style="line-height:23px; font-family: nanumsquare;">
