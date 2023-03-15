@@ -78,7 +78,7 @@ layout: about
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08 ~ 2022.10 <br/> https://github.com/Sungbae95/ZZAZO </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-  빅데이터기반 주변 장소 추천 서비스
+  빅데이터기반 주변 장소 추천 서비스 입니다.
 </p>
 <span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
@@ -100,7 +100,7 @@ layout: about
 <span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.08 ~ 2022.10 <br/> https://github.com/Team-NCT/Selly </span> <br/> <br/>
 <span style="font-size:100%"> <b>프로젝트 소개</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-  최근 유행하고 있는 아트테크(Art-Tech) 플랫폼의 NFT 버전입니다.,<br/>판매자가 직접 NFT를 올리고 NFT를 여러 사람이 나누어서 공동으로 소유하고 소유 지분을 재판매 할 수 있는 플랫폼입니다.
+  최근 유행하고 있는 아트테크(Art-Tech) 플랫폼의 NFT 버전입니다.<br/>판매자가 직접 NFT를 올리고 NFT를 여러 사람이 나누어서 공동으로 소유하고 소유 지분을 재판매 할 수 있는 플랫폼입니다.
 </p>
 <span style="font-size:100%"> <b>주요 개발 내용</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
