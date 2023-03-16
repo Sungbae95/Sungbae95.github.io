@@ -10,7 +10,7 @@ layout: about
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;About Me </span>
 <hr />
 <p style="line-height:23px; font-family: nanumsquare;">
-사회에 공헌할 수 있는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
+사용자의 편의를 높이는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
 동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
 다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.
 </p>
