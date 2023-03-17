@@ -80,7 +80,7 @@ layout: about
   &nbsp;- Socket 통신으로 실시간으로 운동 Data 기록 API 구현 <br/>
   &nbsp;- 키오스크, 모바일 메인 화면, Calendar API 구현<br/>
   &nbsp;- 운동 상세 기록 API 구현<br/>
-  &nbsp;- 모바일 목표 시간, 륨(무게) 설정 API 구현<br/>
+  &nbsp;- 모바일 목표 시간, 볼륨(무게) 설정 API 구현<br/>
 </p>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span>
 <p style="line-height:23px; font-family: nanumsquare;">
