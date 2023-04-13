@@ -50,11 +50,11 @@ layout: about
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Awards </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 우수상 | 1위 <br/> 2022.08  </span> <br/>
+<span style="font-size:80%; color:gray"> 우수상 | 1위 <br/> 2022.08.19  </span> <br/>
 
 
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 우수상 | 2위 <br/> 2022.12  </span>
+<span style="font-size:80%; color:gray"> 우수상 | 2위 <br/> 2022.11.25  </span>
 <p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/>
 
