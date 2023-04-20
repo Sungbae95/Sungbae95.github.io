@@ -26,7 +26,7 @@ layout: about
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Career </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>(주) 메디아이젠트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07 ~ 2020.09 </span>
+<span style="font-size:80%; color:gray"> 인턴 | SW 개발 부서 <br/> 2020.07.01 ~ 2020.09.01 </span>
 <p style="line-height:23px; font-family: nanumsquare;">
   &nbsp;ICT 학점연계 인턴십에 참여하여 2개월 동안 인턴 활동을 수행하였습니다.
   병원경영에 도움이 되는 제품을 제공합니다. 
