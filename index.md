@@ -63,7 +63,7 @@ layout: about
 <hr />
 ![image](https://user-images.githubusercontent.com/98007970/225359778-d97d6389-3770-4f82-8236-6f8a5ee5a25d.png){: width="25%" height="25%"}<br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b> SALUS</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07 ~ 2022.08  <br/> 
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07.11 ~ 2022.08.19  <br/> 
 <a href="https://github.com/Sungbae95/SALUS" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/SALUS</a>
 </span> <br/> <br/>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>프로젝트 소개</u> </span> 
