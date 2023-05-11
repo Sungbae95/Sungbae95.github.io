@@ -84,7 +84,7 @@ layout: about
 </p>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>활용 기술</u> </span>
 <p style="line-height:23px; font-family: nanumsquare;">
-  &nbsp;- Node.js, Express, Mybatis, Socket.io, MariaDB
+  &nbsp;- Node.js-Express, Mybatis, Socket.io, MariaDB
 </p>
 <p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/>
