@@ -16,12 +16,12 @@ layout: about
 </p>
 <br/>
 
-<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
+<!-- <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 대전대학교 </span> <br/>
 <span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
 <p style="line-height:23px; font-family: nanumsquare;"></p>
-<br/>
+<br/> -->
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Career </span>
 <hr />
