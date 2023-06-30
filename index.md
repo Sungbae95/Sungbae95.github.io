@@ -23,6 +23,12 @@ layout: about
 <p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/> -->
 
+<span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Language Grade </span>
+<hr />
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>OPIc</b> </span> <br/>
+<span style="font-size:80%; color:gray"> Intermediate Mid 2 | IM2 </span>
+<br/>
+
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Career </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>(주) 메디아이젠트</b> </span> <br/>
