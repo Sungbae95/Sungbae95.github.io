@@ -26,7 +26,8 @@ layout: about
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Certificate </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>OPIc</b> </span> <br/>
-<span style="font-size:80%; color:gray">IM2 </span>
+<span style="font-size:80%; color:gray">IM2</span>
+<p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Career </span>
