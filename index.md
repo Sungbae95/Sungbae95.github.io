@@ -10,16 +10,24 @@ layout: about
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;About Me </span>
 <hr />
 <p style="line-height:23px; font-family: nanumsquare;">
-사용자의 편의를 높이는 개발을 하고 싶은 백엔드 개발자 박성배입니다.<br/>
-동료들과 적극적인 소통과 도전정신 두 가지를 개발자의 핵심 가치로 생각합니다.<br/>
-다양한 기술을 접하는 것을 좋아하며 활용하기 위해 새로운 기술에 도전하는 것을 좋아합니다.
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 코드의 개선을 위해 노력하는 개발자 </span> <br/>
+팀 프로젝트를 진행해오면서 기술 스택과 코드에 대한 고민을 많이 하게 되었습니다. <br/>
+진행 중인 프로젝트에서 사용하기에 적합한 기술인가 ? <br/>
+다른 사람이 내 코드를 봤을 때 쉽게 이해할 수 있을까 ? <br/>
+작성 중인 코드가 효율적인가 ? 나의 최선일까 ? <br/>
+이런 고민을 하다 보니 프로젝트 수행 시에 최적의 기술을 사용하려고 노력합니다. <br/>
+또한, 코드를 간결하고 어느 누가 보더라도 이해하기 쉽게 작성하려고 노력하고 있습니다. <br/>
+
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> ~~ 개발자 </span> <br/>
+
+
 </p>
 <br/>
 
 <!-- <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 대전대학교 </span> <br/>
-<span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터 공학과 </span>
+<span style="font-size:80%; color:gray"> 2014.03 ~ 2021.02 <br/> 컴퓨터공학 </span>
 <p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/> -->
 
