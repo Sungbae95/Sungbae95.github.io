@@ -9,19 +9,32 @@ layout: about
 <br/>
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;About Me </span>
 <hr />
+
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 도전 지향적인 개발자 </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
+새로운 도전을 피하지 않고 부딪혀 나가자라는 마음을 가지고 있습니다.<br/>
+기술에 대해 전문성을 확보하는 것도 좋아하지만 새로운 기술에 도전하는 것을 좋아합니다.<br/>
+다양한 프로젝트를 경험하면서 다양한 백엔드 프레임워크 활용, 블록체인 개발, IoT 실시간 통신 개발, MA MSA 아키텍처 구축 등을 도전해왔습니다. <br/>
+이러한 경험으로 확장성과 유지 보수성이 높은 백엔드 아키텍처와 패턴을 위해 언제나 고민하고 있습니다.<br/>
+</p> <br/>
+
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 코드의 개선을 위해 노력하는 개발자 </span> <br/>
+<p style="line-height:23px; font-family: nanumsquare;">
 팀 프로젝트를 진행해오면서 기술 스택과 코드에 대한 고민을 많이 하게 되었습니다. <br/>
 진행 중인 프로젝트에서 사용하기에 적합한 기술인가 ? <br/>
 다른 사람이 내 코드를 봤을 때 쉽게 이해할 수 있을까 ? <br/>
 작성 중인 코드가 효율적인가 ? 나의 최선일까 ? <br/>
 이런 고민을 하다 보니 프로젝트 수행 시에 최적의 기술을 사용하려고 노력합니다. <br/>
-또한, 코드를 간결하고 어느 누가 보더라도 이해하기 쉽게 작성하려고 노력하고 있습니다. <br/><br/>
+또한, 코드를 간결하고 어느 누가 보더라도 이해하기 쉽게 작성하려고 노력합니다. <br/>
+</p> <br/>
 
-<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> ~~ 개발자 </span> <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> 소통을 중요시하는 개발자 </span> <br/>
+<p style="line-height:23px; font-family: nanumsquare;">
+서비스 개발에 있어서 팀원과의 소통을 가장 중요하다고 생각하고 있습니다. <br/>
+능동적이고 적극적인 소통이 문제 해결과 서비스의 발전에 도움이 된다고 생각합니다.<br/>
+동료들과의 적극적인 소통을 바탕으로 더 가치 있는 서비스로 발전시켜 고객들에게 제공하고 싶습니다.<br/>
+</p> 
 
-
-</p>
 <br/>
 
 <!-- <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Education </span>
@@ -65,11 +78,11 @@ layout: about
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Awards </span>
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 공통 프로젝트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 우수상 | 1위 <br/> 2022.08.19  </span> <br/>
+<span style="font-size:80%; color:gray"> SALUS | 우수상 | 1위 <br/> 2022.08.19  </span> <br/>
 
 
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>삼성 청년 SW 아카데미 자율 프로젝트</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 우수상 | 2위 <br/> 2022.11.25  </span>
+<span style="font-size:80%; color:gray"> SELLY | 우수상 | 2위 <br/> 2022.11.25  </span>
 <p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/>
 
@@ -169,12 +182,17 @@ layout: about
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Backend</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-Java, Python, Spring Boot, Spring Cloud, Node.js(Express), Django, Linux, AWS EC2, Jenkins, Docker
+Java, Python, Spring Boot, Spring Cloud, Node.js(Express), Django, Linux, AWS EC2, Mybatis, JPA
 </p>
 <br/>
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Database</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-MySQL, MariaDB, MongoDB, Mybatis, JPA
+MySQL, MariaDB, MongoDB 
+</p>
+<br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Etc</b> </span> <br/>
+<p style="line-height:23px; font-family: nanumsquare;">
+Jenkins, Docker, Web3j, Socket.io
 </p>
 <br/>
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Tools</b> </span> <br/>
