@@ -119,7 +119,7 @@ layout: about
 
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b>ZZAZO</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08.22 ~ 2022.10.05 (6주) <br/> Front-end 3명 | Back-end 3명 (6명) <br/> Back-end 개발 <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08.22 ~ 2022.10.05 (6주) <br/> Front-end 4명 | Back-end 2명 (6명) <br/> Back-end 개발 <br/>
 <a href="https://github.com/Sungbae95/ZZAZO" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/ZZAZO</a>
 </span> <br/> <br/>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>프로젝트 소개</u> </span> 
