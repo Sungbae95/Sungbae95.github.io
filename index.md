@@ -91,7 +91,7 @@ layout: about
 <hr />
 ![image](https://user-images.githubusercontent.com/98007970/225359778-d97d6389-3770-4f82-8236-6f8a5ee5a25d.png){: width="25%" height="25%"}<br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b> SALUS</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07.11 ~ 2022.08.19  <br/> 
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 공통 프로젝트<br/> 2022.07.11 ~ 2022.08.19 (6주) <br/> Front-end 3명 | Back-end 3명 (6명) <br/> Back-end 개발 <br/>
 <a href="https://github.com/Sungbae95/SALUS" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/SALUS</a>
 </span> <br/> <br/>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>프로젝트 소개</u> </span> 
@@ -119,7 +119,7 @@ layout: about
 
 ![image](https://user-images.githubusercontent.com/98007970/225359926-7029288f-3e74-4024-9407-3fc525729ab8.png) <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> <b>ZZAZO</b> </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08.22 ~ 2022.10.05 <br/> 
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 특화 프로젝트<br/> 2022.08.22 ~ 2022.10.05 (6주) <br/> Front-end 3명 | Back-end 3명 (6명) <br/> Back-end 개발 <br/>
 <a href="https://github.com/Sungbae95/ZZAZO" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Sungbae95/ZZAZO</a>
 </span> <br/> <br/>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>프로젝트 소개</u> </span> 
@@ -147,7 +147,7 @@ layout: about
 
 ![image](https://user-images.githubusercontent.com/98007970/225358755-3302bcb5-afb6-41bd-840f-a5405a347925.png){: width="25%" height="25%"} <br/>
 <span style="font-size:135%; font-family: nanumsquare;  font-weight: 700;"> SELLY </span> <br/>
-<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10.11 ~ 2022.11.21 <br/>
+<span style="font-size:80%; color:gray"> 삼성 청년 SW 아카데미 자율 프로젝트<br/> 2022.10.11 ~ 2022.11.21 (6주) <br/> Front-end 3명 | Back-end 3명 (6명) <br/> Back-end 개발 <br/>
 <a href="https://github.com/Team-NCT/Selly" target="_blank" rel="noopener noreferrer" style="font-family: nanumsquare;">https://github.com/Team-NCT/Selly</a>
 </span> <br/> <br/>
 <span style="font-size:100%; font-family: nanumsquare;  font-weight: 800;"> <u>프로젝트 소개</u> </span>
