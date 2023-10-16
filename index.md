@@ -50,6 +50,10 @@ layout: about
 <span style="font-size:80%; color:gray">IM2 <br/> 2023.06.16</span>
 <p style="line-height:23px; font-family: nanumsquare;"></p>
 <br/>
+<span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>SQL 개발자 (SQLD)</b> </span> <br/>
+<span style="font-size:80%; color:gray">IM2 <br/> 2023.10.06</span>
+<p style="line-height:23px; font-family: nanumsquare;"></p>
+<br/>
 
 <span style="line-height:10px; font-size:200%; font-family: nanumsquare;  font-weight: 800;"> &nbsp;Career </span>
 <hr />
@@ -182,7 +186,7 @@ layout: about
 <hr />
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Backend</b> </span> <br/>
 <p style="line-height:23px; font-family: nanumsquare;">
-Java, Python, Spring Boot, Spring Cloud, Node.js(Express), Django, Linux, AWS EC2, Mybatis, JPA
+Java, Python, Spring Boot, Spring Cloud, JavaScript, Node.js Express, Django, Linux, AWS EC2, Mybatis, JPA
 </p>
 <br/>
 <span style="font-size:125%; font-family: nanumsquare;  font-weight: 700;"> <b>Database</b> </span> <br/>
